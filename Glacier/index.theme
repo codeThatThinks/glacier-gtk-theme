@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Glacier
+Comment=
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Glacier
+GtkTheme=Glacier
+IconTheme=Glacier
+MetacityTheme=Glacier
